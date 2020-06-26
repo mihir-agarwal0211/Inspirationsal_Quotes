@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968004531441",
+    "firebase_url": "https://inspire-quotes99.firebaseio.com",
+    "project_id": "inspire-quotes99",
+    "storage_bucket": "inspire-quotes99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968004531441:android:57b089cc025b5136d26550",
+        "android_client_info": {
+          "package_name": "com.example.inspirequote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968004531441-ld9tvgrpj6f4td5gj3pkiesg2gif0bds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJviPTBbBEfa8u7q5mzUyUImbnT3EFrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968004531441-ld9tvgrpj6f4td5gj3pkiesg2gif0bds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
